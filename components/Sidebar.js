@@ -13,7 +13,6 @@ export const SidebarData = [
     {
         title: 'Make an order',
         path: '/postorder',
-        // icon: <RiIcons.RiHandCoinFill className="icon"/>,
         cName: 'sidebar-text'
     },
     {

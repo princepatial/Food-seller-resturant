@@ -17,8 +17,6 @@ import {
   } from "react-bootstrap";
 import NavBarCom from "../styles/NavBar.module.css";
 
-// import Image from 'next/image'
-// import Link from 'next/link'
 
 // import { FaBars } from "react-icons/fa";
 // import "./navbar.css";

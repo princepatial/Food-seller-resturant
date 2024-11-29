@@ -1,7 +1,7 @@
 import React from 'react'
 import { stock } from '../../utils/itemsStock'
 import ProductCards from '../ProductCards/ProductCards'
-// console.log(stock.lunch);
+
 function Menu() {
 
     const menuTabs = [

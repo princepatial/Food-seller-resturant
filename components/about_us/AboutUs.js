@@ -8,7 +8,7 @@ function AboutUs() {
       <div className="col-lg-6">
         <h2>About Us</h2>
         <h3>
-        Foodii - <span className="fw-light"> is a full-service,  restaurant specialized in delivering a relaxed and memorable dining experience.</span>
+        Foodii - <span className="fw-light"> is a full-service,  restaurant specialized in delivering a relaxed and memorable dining experience</span>
         </h3>
       </div>
       <div className="col-lg-6 pt-4 pt-lg-0">

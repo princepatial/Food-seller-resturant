@@ -1,6 +1,5 @@
 import React from 'react'
 import headerStyles from "../styles/Header.module.css";
-// import Image from 'next/image';
 function Hero() {
     return (
     <div className={headerStyles.height} id="Home">

@@ -1,6 +1,6 @@
 import Head from "next/head";
 
-const Meta = ({ title, keywords, description, siteLink, image }) => {
+const Meta = ({title, keywords, description, siteLink, image }) => {
   return (
     <Head>
       <meta name="viewport" content="width=device-width, initial-scale=1" />

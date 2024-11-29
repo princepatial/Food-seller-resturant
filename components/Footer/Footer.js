@@ -6,7 +6,7 @@ function Footer() {
       <div className="container">
         <h3>Foodii</h3>
         <p>
-        A memorable dining experience.
+        A memorable dining experience
         </p>
         <div className="social-links">
           <a href="#" className="twitter">

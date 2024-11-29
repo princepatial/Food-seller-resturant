@@ -1,5 +1,5 @@
 import React from 'react'
-import { ImageCardsSwiper } from '../TextCardsSwiper'
+import {ImageCardsSwiper } from '../TextCardsSwiper'
 
 function Values() {
     return (

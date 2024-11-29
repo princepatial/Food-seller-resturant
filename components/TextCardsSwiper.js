@@ -12,9 +12,6 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import valueCss from "../styles/values.module.css";
 
 // import Swiper core and required modules
-// import SwiperCore, { Autoplay, Pagination, Navigation } from "swiper";
-
-// install Swiper modules
 // SwiperCore.use([Autoplay, Pagination, Navigation]);
 
 // import Swiper core and required modules

@@ -49,7 +49,7 @@ function NavBar() {
         <Nav.Link href="#"><span className={NavBarCom.menuitem}>Order</span></Nav.Link>
         <Nav.Link href="#about"><span className={NavBarCom.menuitem}>Why Us</span></Nav.Link>
 
-        <Nav.Link href="#"><span className={NavBarCom.menuitem} style={{color:"#c0392b"}}>077589624 Order Now</span></Nav.Link>
+        <Nav.Link href="#"><span className={NavBarCom.menuitem} style={{color:"#c0392b"}}>Order Now</span></Nav.Link>
         {/* <Nav.Link href="#"> <span className="text-danger">Donate</span> </Nav.Link> */}
         </Nav>
       

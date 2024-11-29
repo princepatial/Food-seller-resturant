@@ -16,9 +16,7 @@
 color: white;
 padding: 10px;
 border: 2px solid white;
-border-radius: 90px;
-} */
-/* background-color: rgba(0,0,0, 0.4); */
+ground-color: rgba(0,0,0, 0.4); */
 
 .size{
   object-fit: cover;

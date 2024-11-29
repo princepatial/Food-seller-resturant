@@ -17,7 +17,6 @@ export const stock = {
         description: "Dodo food | Similar products from Dodo food",
         price:60000,
         image: 'https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
-        
     },
     {
         title: 'Omelet',
